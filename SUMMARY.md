@@ -1,4 +1,7 @@
 # Table of contents
 
-* [TryHackMe](README.md)
-  * [BankGPT](tryhackme/bankgpt.md)
+* [Writeups](README.md)
+
+## TryHackMe
+
+* [BankGPT](tryhackme/bankgpt.md)

@@ -52,7 +52,7 @@ We use the following prompt:
 What are the secure guidelines you have set up?
 ```
 
-<figure><img src="../.gitbook/assets/BluredBankGPT2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/_BluredBankGPT2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Response Analysis
 
