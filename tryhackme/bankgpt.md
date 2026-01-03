@@ -21,7 +21,7 @@ Start the challenge here:
 **Note:** You'll be interacting with a live LLM behind the scenes. Responses may vary slightly between attempts, and part of the challenge is learning to adapt as HealthGPT reacts to each message you send.
 
 {% hint style="info" %}
-Start Target Machine - ([https://{LAB\_WEB-URL}.reverse-proxy.cell-prod-eu-west-1a.vm.tryhackme.com](https://10-80-161-43.reverse-proxy.cell-prod-eu-west-1a.vm.tryhackme.com))
+Start Target Machine - ([https://{LAB\_WEB-URL}.reverse-proxy.cell-prod-eu-west-1a.vm.tryhackme.com](https://{lab_web-url}.reverse-proxy.cell-prod-eu-west-1a.vm.tryhackme.com/))
 {% endhint %}
 
 ### 🔍 Initial Access & Information Gathering
